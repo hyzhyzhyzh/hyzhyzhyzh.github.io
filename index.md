@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/hyzhyzhyzh/hyzhyzhyzh.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hyzhyzhyzh/hyzhyzhyzh.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 个人简介
+姓名：黄一芷
+性别：女
+出生年月：2002.8.27
+籍贯：吉林白城
+专业：金融数学
+政治面貌：团员
+电子邮件：294533482@qq.com
+### 技能总结
+C语言、Python、matlab、R语言、SPSS、Stata、视频剪辑、数据分析
+### 兴趣爱好
+养花、养虫、画画、阅读、看电影、听音乐、享受美食
+### 教育背景
+湖南工商大学理学院金融数学专业，大二在读
+### 主修课程
+概率论、宏观经济学、统计学、常微分方程
+### 获奖情况
+中国大学生数学建模竞赛-省三等奖
+大数据统计与分析比赛-校二等奖
+### 自我评价
